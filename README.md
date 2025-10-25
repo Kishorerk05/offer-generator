@@ -197,9 +197,6 @@ The application includes a responsive web interface with the following features:
    - Check internet connection
    - Verify Groq API key is valid and has sufficient credits
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
